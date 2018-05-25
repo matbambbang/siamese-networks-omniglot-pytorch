@@ -7,5 +7,6 @@ Omniglot datasets are available at https://github.com/Goldesel23/Siamese-Network
 * torchvision 0.2.0
 
 # Results
-Verification task : 0.85 over\n
+Verification task : 0.85 over
+
 One-Shot classification : 0.50
